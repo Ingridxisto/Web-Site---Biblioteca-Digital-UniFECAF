@@ -52,8 +52,8 @@ O projeto foi adaptado para oferecer uma experiência consistente tanto em **com
 1. Faça o download ou clone este repositório:
    ```bash
    git clone https://github.com/Ingridxisto/Web-Site---Biblioteca-Digital-UniFECAF.git
-```
-
+   ```
+  
 2. Abra o arquivo index.html no navegador de sua preferência.
 
 👩‍💻 Autora
